@@ -23,7 +23,7 @@ const SettingsPage =async () =>{
 
 
                     </div>
-                        <SubscriptionButton  isPro ={isPro} /> 
+                    
 
 
                 </div>
