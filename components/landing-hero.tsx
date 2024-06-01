@@ -37,7 +37,7 @@ options={{
                             Create content using AI 10X faster.
                         </div>
                         <div>
-                            <Link href="/sign-up">
+                            <Link href="/dashboard">
                 <Button variant ="premium" className="md:text-lg p-4 md:p-6 rounded-full font-semibold">
                             Start Generating For Free 
 </Button>
