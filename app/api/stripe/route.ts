@@ -40,7 +40,8 @@ export async function GET(){
                             price_data:{
                                 currency:"USD",
                                 product_data:{
-                                    name:"Priapus Pro "
+                                    name:"Charbel Youssef Pro
+                                        "
                                 ,description:"Unlimited AI Generations ",
                             },
                             unit_amount:2000,
