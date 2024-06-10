@@ -13,7 +13,7 @@ import { CrispProvider } from "@/components/crisp-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Priapus",
+  title: "Charbel Youssef",
   description: "AI platform ",
 };
 
